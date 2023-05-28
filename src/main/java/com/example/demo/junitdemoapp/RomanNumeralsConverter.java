@@ -1,7 +1,7 @@
 package com.example.demo.junitdemoapp;
 
 public class RomanNumeralsConverter {
-    // Define arrays for Roman numerals and their corresponding values
+    // Definiere Arrays für römische Zahlen und ihre entsprechenden Werte
     private static final String[] romanNumerals = {
         "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"
     };

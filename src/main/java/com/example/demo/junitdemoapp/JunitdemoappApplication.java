@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class JunitdemoappApplication {
-
+// Testing der Hauptfunktion durch ein Beispiel
 	public static void main(String[] args) {
 		SpringApplication.run(JunitdemoappApplication.class, args);
 		int number = 1234;
